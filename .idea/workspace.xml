@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b20d41c3-116b-4507-bed0-acde12f511e5" name="Changes" comment="bài 6: nhúng js">
+      <change afterPath="$PROJECT_DIR$/simpleform1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js2.html" beforeDir="false" afterPath="$PROJECT_DIR$/js2.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2CtCZTe1M2J483bgwboo9aAFtvq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b20d41c3-116b-4507-bed0-acde12f511e5" name="Changes" comment="" />
+      <created>1659612552522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659612552522</updated>
+      <workItem from="1659612557948" duration="763000" />
+      <workItem from="1659625266689" duration="4994000" />
+      <workItem from="1659631285016" duration="88000" />
+      <workItem from="1659631392879" duration="3296000" />
+      <workItem from="1659634779251" duration="51000" />
+      <workItem from="1659661884425" duration="1123000" />
+      <workItem from="1659663971627" duration="6946000" />
+      <workItem from="1659673910898" duration="107000" />
+    </task>
+    <task id="LOCAL-00001" summary="Thực hành sử dụng thẻ html cơ bản">
+      <created>1659612675254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659612675254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Thực hành sử dụng thẻ html cơ bản">
+      <created>1659626647839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659626647839</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Form search">
+      <created>1659627531791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659627531791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tablesimple">
+      <created>1659628344226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659628344226</updated>
+    </task>
+    <task id="LOCAL-00005" summary="thoi khoa bieu">
+      <created>1659629991295</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659629991295</updated>
+    </task>
+    <task id="LOCAL-00006" summary="thoi khoa bieu">
+      <created>1659630657575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659630657575</updated>
+    </task>
+    <task id="LOCAL-00007" summary="form dang ky">
+      <created>1659634797794</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659634797794</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bài 6: thực hành hiện thị đầu ra">
+      <created>1659672377153</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659672377153</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bài 6: nhúng js">
+      <created>1659672727304</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659672727304</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Thực hành sử dụng thẻ html cơ bản" />
+    <MESSAGE value="Form search" />
+    <MESSAGE value="tablesimple" />
+    <MESSAGE value="thoi khoa bieu" />
+    <MESSAGE value="form dang ky" />
+    <MESSAGE value="bài 6: thực hành hiện thị đầu ra" />
+    <MESSAGE value="bài 6: nhúng js" />
+    <option name="LAST_COMMIT_MESSAGE" value="bài 6: nhúng js" />
+  </component>
+</project>
