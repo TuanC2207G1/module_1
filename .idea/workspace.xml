@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20d41c3-116b-4507-bed0-acde12f511e5" name="Changes" comment="bài 6: nhúng js">
-      <change afterPath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/Thực hành khai báo sử dụng biến.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/7.1.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Thực hành khai báo sử dụng biến bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Tinhdiemtrungbinh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai 6/New Text Document.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai 6/js2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai 6/js2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai 6/jsdemo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 5/Form tim kiem google.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 5/formdangky.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 5/simpleform.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 5/simpleform1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 5/tablesimple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 5/thoikhoabieu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/Thực hành khai báo sử dụng biến.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML form &amp; table/Form tim kiem google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML form &amp; table/formdangky.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML form &amp; table/simpleform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML form &amp; table/simpleform1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML form &amp; table/tablesimple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML form &amp; table/thoikhoabieu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan về javascript/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan về javascript/js2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan về javascript/js2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan về javascript/jsdemo.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +91,8 @@
       <workItem from="1659661884425" duration="1123000" />
       <workItem from="1659663971627" duration="6946000" />
       <workItem from="1659673910898" duration="107000" />
-      <workItem from="1659927620881" duration="625000" />
+      <workItem from="1659927620881" duration="1150000" />
+      <workItem from="1659928810282" duration="3233000" />
     </task>
     <task id="LOCAL-00001" summary="Thực hành sử dụng thẻ html cơ bản">
       <created>1659612675254</created>
