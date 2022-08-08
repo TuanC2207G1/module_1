@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20d41c3-116b-4507-bed0-acde12f511e5" name="Changes" comment="bài 6: nhúng js">
-      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Chinhtron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/DoidoC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Shinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 4 Git &amp; HTML/taodanhsach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Chuyen doi tien te.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Tinhdiemtrungbinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Tinhdiemtrungbinh.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CtCZTe1M2J483bgwboo9aAFtvq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -81,7 +81,8 @@
       <workItem from="1659663971627" duration="6946000" />
       <workItem from="1659673910898" duration="107000" />
       <workItem from="1659927620881" duration="1150000" />
-      <workItem from="1659928810282" duration="5522000" />
+      <workItem from="1659928810282" duration="11915000" />
+      <workItem from="1659967271624" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="Thực hành sử dụng thẻ html cơ bản">
       <created>1659612675254</created>

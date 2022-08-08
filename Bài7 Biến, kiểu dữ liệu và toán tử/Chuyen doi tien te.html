@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chuyen doi tien te</title>
+</head>
+<body>
+<table>
+  <tr>
+    <th>Amount</th>
+    <th> From currency</th>
+    <th>To currency
+  </tr>
+  <tr>
+    <td><input type="number" name="tien" id="tien"></td>
+    <td><select id="mySelect" onchange="chuyentu()">
+      <option value="VND">VND</option>
+      <option value="USD">USD</option>
+    </select></td>
+
+
+    <td><select id="mySelect1" onchange="chuyentu()">
+      <option value="VND">VND</option>
+      <option value="USD">USD</option>
+    </select></td>
+
+    <td><input type="submit" name="xacnhan" value="Convert" onclick="chuyentien()"> </td>
+  </tr>
+
+</table>
+
+
+<script>
+  var tien = document.getElementById("tien").value;
+  var selectedValue = document.getElementById("mySelect").value;
+  var selectedValue1 = document.getElementById("mySelect1").value;
+
+
+  function chuyentien()
+  {
+    alert(tien);
+    alert(selectedValue);
+    if(selectedValue == "VND" && selectedValue1 == "USD") {
+
+    } else if() {
+
+    }
+  }
+</script>
+
+</body>
+</html>
