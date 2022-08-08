@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20d41c3-116b-4507-bed0-acde12f511e5" name="Changes" comment="bài 6: nhúng js">
-      <change afterPath="$PROJECT_DIR$/simpleform1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js2.html" beforeDir="false" afterPath="$PROJECT_DIR$/js2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/Thực hành khai báo sử dụng biến.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai 6/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai 6/js2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai 6/js2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai 6/jsdemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài 5/Form tim kiem google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài 5/formdangky.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài 5/simpleform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài 5/simpleform1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài 5/tablesimple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài 5/thoikhoabieu.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,6 +62,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Thực hành khai báo và sử dụng biến.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Thực hành khai báo và sử dụng biến.js" working-dir="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Thực hành khai báo và sử dụng biến.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,6 +88,7 @@
       <workItem from="1659661884425" duration="1123000" />
       <workItem from="1659663971627" duration="6946000" />
       <workItem from="1659673910898" duration="107000" />
+      <workItem from="1659927620881" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="Thực hành sử dụng thẻ html cơ bản">
       <created>1659612675254</created>
