@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>đăng kí</title>
+</head>
+<body>
+<div style="background: orange;width: 250px">
+<!--<form>-->
+  <table>
+    <tr style="background: cornflowerblue;color: blue">
+      <td colspan="2">ĐĂNG KÍ HỌC VIÊN</td>
+    </tr>
+    <tr>
+      <td> Họ Và Tên </td>
+      <td><input type="text" name="hovaten"></td>
+    </tr>
+    <tr>
+      <td> Ngày Sinh </td>
+      <td><input type="date" name="ngaysinh"</td>
+    </tr>
+    <tr>
+      <td> Giới tính </td>
+      <td><label for="male">Nam</label>: <input type="radio" id="male" name="sex" value="" />
+        <label for="female">Nữ</label>: <input type="radio" id="female" name="sex" value="" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top"> Địa Chỉ </td>
+      <td><input style="height: 80px" type-="text" name="diachi" ></td>
+    </tr>
+    <tr>
+      <td><label for="chonlop"> Lớp </label></td>
+      <td>
+      <select name="chonlop" id="chonlop">
+        <option value="">-Chọn Lớp-</option>
+        <option value="">Lớp 10</option>
+        <option value="">Lớp 11</option>
+        <option value="">Lớp 12</option>
+      </td>
+    </tr>
+    <tr>
+      <tD> Email </tD>
+      <td><input type="text" name="email" id="email"></td>
+    </tr>
+    <tr>
+      <td> Điện Thoai </td>
+      <td> <input type="number" name="sdt"> </td>
+    </tr>
+    <tr>
+      <td><input type="submit" name="submit" value="Đăng kí"></td>
+      <td><input type="reset" name="reset" value="Nhập lại"</td>
+    </tr>
+    <tr>
+    <td><button onclick="show()">Show Email</button><br></td>
+    <td><p id="display"></p><br></td>
+    </tr>
+  </table>
+<!--</form>-->
+
+</div>
+<script>
+function show(){ let a=document.getElementById("email").value;
+            document.getElementById("display").innerText = a;}
+</script>
+</body>
+</html>
