@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20d41c3-116b-4507-bed0-acde12f511e5" name="Changes" comment="bài 6: nhúng js">
-      <change afterPath="$PROJECT_DIR$/Bài 5 HTML form &amp; table/caculartor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài 5 HTML form &amp; table/form survay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài 5 HTML form &amp; table/maytinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài 5 HTML form &amp; table/simple form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài 5 HTML form &amp; table/so thich cua ban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài 5 HTML form &amp; table/Đăng kí học viên.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài 6 Tổng quan về javascript/bat tat den.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 5 HTML form &amp; table/ban co vua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 8/â.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/nang cap corei.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài 6 Tổng quan về javascript/bat tat den.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài 6 Tổng quan về javascript/bat tat den.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Chuyen doi tien te.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Chuyen doi tien te.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Desktop/New folder/Demo_Css_C0722g1/BanCoVua.html&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -88,6 +89,11 @@
       <workItem from="1659928810282" duration="11915000" />
       <workItem from="1659967271624" duration="4758000" />
       <workItem from="1660094098054" duration="23635000" />
+      <workItem from="1660143263360" duration="2243000" />
+      <workItem from="1660183399223" duration="644000" />
+      <workItem from="1660189028341" duration="1215000" />
+      <workItem from="1660204428111" duration="5105000" />
+      <workItem from="1660266931434" duration="3664000" />
     </task>
     <task id="LOCAL-00001" summary="Thực hành sử dụng thẻ html cơ bản">
       <created>1659612675254</created>

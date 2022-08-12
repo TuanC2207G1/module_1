@@ -12,38 +12,37 @@
     <th>To currency
   </tr>
   <tr>
-    <td><input type="number" name="tien" id="tien"></td>
-    <td><select id="mySelect" onchange="chuyentu()">
+    <td><input type="text" name="tien" id="tien"></td>
+    <td><select id="mySelect" >
       <option value="VND">VND</option>
       <option value="USD">USD</option>
     </select></td>
 
 
-    <td><select id="mySelect1" onchange="chuyentu()">
+    <td><select id="mySelect1" >
       <option value="VND">VND</option>
       <option value="USD">USD</option>
     </select></td>
 
-    <td><input type="submit" name="xacnhan" value="Convert" onclick="chuyentien()"> </td>
+    <td><button onclick="chuyentien()">Convert</button> </td>
   </tr>
-
+  <tr id="ketqua"></tr>
 </table>
 
 
 <script>
-  var tien = document.getElementById("tien").value;
-  var selectedValue = document.getElementById("mySelect").value;
-  var selectedValue1 = document.getElementById("mySelect1").value;
-
-
-  function chuyentien()
-  {
-    alert(tien);
-    alert(selectedValue);
-    if(selectedValue == "VND" && selectedValue1 == "USD") {
-
-    } else if() {
-
+  function chuyentien(){
+  let tien = parseInt(document.getElementById("tien").value);
+  let Value = (document.getElementById("mySelect").value);
+  let Value1 = (document.getElementById("mySelect1").value);
+    if(Value === "VND" && Value1 === "USD") {
+      document.getElementById("ketqua").innerText = tien/23000;
+    }
+    if(Value === "USD" && Value1 ==="VND") {
+      document.getElementById("ketqua").innerText = tien*23000;
+    }
+    if(Value===Value1){
+      document.getElementById("ketqua").innerText;
     }
   }
 </script>
