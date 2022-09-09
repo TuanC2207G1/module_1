@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>UD may tinh</title>
+</head>
+<body>
+<input type="number" id="so1">
+<input type="number"  id="so2"><br>
+<button onclick="tinh()">+</button>
+<button onclick="tinh1()">-</button>
+<button onclick="tinh2()">*</button>
+<button onclick="tinh3()">/</button>
+<p id="hien"></p>
+</body>
+<script>
+
+ function tinh(){
+     let val1=parseInt(document.getElementById("so1").value);
+     let val2=parseInt(document.getElementById("so2").value);
+     let kq= parseInt(val1) + parseInt(val2);
+     document.getElementById("hien").innerText= 'reasult division:'+ kq ;
+ }
+ function tinh1(){
+     let val1=parseInt(document.getElementById("so1").value);
+     let val2=parseInt(document.getElementById("so2").value);
+     let kq= parseInt(val1) - parseInt(val2);
+     document.getElementById("hien").innerText= 'reasult sub:'+ kq ;
+ }
+ function tinh2(){
+     let val1=parseInt(document.getElementById("so1").value);
+     let val2=parseInt(document.getElementById("so2").value);
+     let kq= parseInt(val1) * parseInt(val2);
+     document.getElementById("hien").innerText= 'reasult mul:'+ kq ;
+ }
+ function tinh3(){
+     let val1=parseInt(document.getElementById("so1").value);
+     let val2=parseInt(document.getElementById("so2").value);
+     let kq= parseInt(val1) / parseInt(val2);
+     document.getElementById("hien").innerText= 'reasult div:'+ kq ;
+ }
+
+</script>
+</html>

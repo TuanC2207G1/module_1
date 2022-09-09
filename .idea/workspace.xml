@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20d41c3-116b-4507-bed0-acde12f511e5" name="Changes" comment="bài 6: nhúng js">
-      <change afterPath="$PROJECT_DIR$/Bài 5 HTML form &amp; table/ban co vua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài 8/â.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/nang cap corei.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 8 Cấu trúc điều kiện loại 1/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 8 Cấu trúc điều kiện loại 1/kiểm tra năm nhuận.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/ungdungmt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 6 Tổng quan về javascript/bat tat den.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài 6 Tổng quan về javascript/bat tat den.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Chuyen doi tien te.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/Chuyen doi tien te.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài 8/â.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework week 1/baitapvenha.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework week 1/baitapvenha2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework week 1/baitapvenha3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc hanh su dung the html.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +97,12 @@
       <workItem from="1660189028341" duration="1215000" />
       <workItem from="1660204428111" duration="5105000" />
       <workItem from="1660266931434" duration="3664000" />
+      <workItem from="1660278610874" duration="4574000" />
+      <workItem from="1660400647032" duration="1848000" />
+      <workItem from="1662599258803" duration="252000" />
+      <workItem from="1662599574336" duration="707000" />
+      <workItem from="1662620680940" duration="1984000" />
+      <workItem from="1662688756654" duration="4097000" />
     </task>
     <task id="LOCAL-00001" summary="Thực hành sử dụng thẻ html cơ bản">
       <created>1659612675254</created>
