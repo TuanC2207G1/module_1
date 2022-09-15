@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>Nhập cạnh hình vuông a=?</p><input type="number" id="canhhinhvuong"/>
+<button onclick="tinh()">Tính</button>
+<br>
+<p id="ketqua">Kết quả của bạn chính là :)))</p>
+<script>
+    function tinh() {
+        let canh = document.getElementById("canhhinhvuong").value;
+        dientichhinhvuong = canh*canh;
+        document.getElementById('ketqua').innerHTML = 'Kêt  quả của bạn chính là :))'+ ' '+ dientichhinhvuong;
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="number" id="soa"><p>Nhập số a ở đây</p><br>
+<input type="number" id="sob"><p>Nhập số b ở đây</p>
+<button onclick="tinhamu2()">A mũ 2 =?</button>
+<button onclick="tinhamub()">A mũ b =?</button>
+<p id="ketqua">Kết quả là :</p>
+<script>
+  function tinhamu2(){
+    let valuea=document.getElementById('soa').value;
+    amu2 = valuea*valuea;
+    document.getElementById('ketqua').innerHTML='Kết quả là :'+amu2;
+  }
+  function tinhamub(){
+    let valuea=document.getElementById('soa').value;
+    let valueb=document.getElementById('sob').value;
+    amub = Math.pow(valuea,valueb);
+    document.getElementById('ketqua').innerHTML='Kết quả là :'+amub;
+  }
+</script>
+</body>
+</html>

@@ -5,17 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20d41c3-116b-4507-bed0-acde12f511e5" name="Changes" comment="bài 6: nhúng js">
-      <change afterPath="$PROJECT_DIR$/Bài 8 Cấu trúc điều kiện loại 1/ex01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài 8 Cấu trúc điều kiện loại 1/kiểm tra năm nhuận.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài7 Biến, kiểu dữ liệu và toán tử/ungdungmt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 10 cấu trúc lặp 1/Table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 10 cấu trúc lặp 1/dowhilesample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 10 cấu trúc lặp 1/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 10 cấu trúc lặp 1/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 10 cấu trúc lặp 1/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 10 cấu trúc lặp 1/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 10 cấu trúc lặp 1/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex2.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex2.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex2.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/in20nguyentodautien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 12 mảng 1/arrayElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 8 Cấu trúc điều kiện loại 1/employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 8 Cấu trúc điều kiện loại 1/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 8 Cấu trúc điều kiện loại 1/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 8 Cấu trúc điều kiện loại 1/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 9 Cấu trúc điều kiện loại 2/clickme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 9 Cấu trúc điều kiện loại 2/theki.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 9 Cấu trúc điều kiện loại 2/tinhab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 9 Cấu trúc điều kiện loại 2/tinhtongab.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 8/â.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework week 1/baitapvenha.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework week 1/baitapvenha2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework week 1/baitapvenha3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuc hanh su dung the html.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +78,24 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.ex1.3.html">
+    <configuration name="ex1.3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my project/Bài 11 cấu trúc lặp 2/ex1.3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="in20nguyentodautien.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my project/Bài 11 cấu trúc lặp 2/in20nguyentodautien.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Thực hành khai báo và sử dụng biến.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Thực hành khai báo và sử dụng biến.js" working-dir="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ex1.3.html" />
+        <item itemvalue="JavaScript Debug.in20nguyentodautien.html" />
         <item itemvalue="Node.js.Thực hành khai báo và sử dụng biến.js" />
       </list>
     </recent_temporary>
@@ -102,7 +130,16 @@
       <workItem from="1662599258803" duration="252000" />
       <workItem from="1662599574336" duration="707000" />
       <workItem from="1662620680940" duration="1984000" />
-      <workItem from="1662688756654" duration="4097000" />
+      <workItem from="1662688756654" duration="10173000" />
+      <workItem from="1662709139215" duration="631000" />
+      <workItem from="1662910883955" duration="50000" />
+      <workItem from="1662910991758" duration="1309000" />
+      <workItem from="1662945151626" duration="10636000" />
+      <workItem from="1663031580658" duration="8972000" />
+      <workItem from="1663080454946" duration="2665000" />
+      <workItem from="1663137678750" duration="7045000" />
+      <workItem from="1663145689958" duration="4933000" />
+      <workItem from="1663204572513" duration="6596000" />
     </task>
     <task id="LOCAL-00001" summary="Thực hành sử dụng thẻ html cơ bản">
       <created>1659612675254</created>
@@ -193,5 +230,21 @@
     <MESSAGE value="bài 6: thực hành hiện thị đầu ra" />
     <MESSAGE value="bài 6: nhúng js" />
     <option name="LAST_COMMIT_MESSAGE" value="bài 6: nhúng js" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/in20nguyentodautien.html</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Bài 11 cấu trúc lặp 2/ex1.3.html</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

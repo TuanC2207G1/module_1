@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let bangcuuchuong = "<table border='1'  style='border-collapse: collapse'>";
+    for(i=2;i<10;i++){
+        bangcuuchuong+='<tr>'
+        for(j=1;j<10;j++){
+            bangcuuchuong+='<td>'+i+'x'+j+'='+i*j+'</td>';
+        }
+        bangcuuchuong   += '</tr>';
+    }
+    bangcuuchuong+='</table>';
+    document.write(bangcuuchuong)
+</script>
+</body>
+</html>

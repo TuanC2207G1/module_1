@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>Nhập a vào ô này:</p><input type="number" id="soa"><Br>
+<p>Nhập b vào ô này:</p><input type="number" id="sob"><br>
+<button onclick="tinhtong()">Tính tổng</button>
+<p id="ketqua">Tổng các số từ a đến b là :</p>
+<script>
+  function tinhtong(){
+    let valuea = +document.getElementById('soa').value;
+    let valueb = +  document.getElementById('sob').value;
+    if(valuea >= valueb){
+     let tong = (valuea+valueb)*(valuea-valueb+1)/2;
+      document.getElementById("ketqua").innerHTML ='Tổng các số từ' +' '+ valueb +' '+ 'đến'+' ' +valuea+' ' +'là'+' '+tong;
+    }else{
+      let tong1 = (valuea+valueb)*(valueb-valuea+1)/2;
+      document.getElementById("ketqua").innerHTML ='Tổng các số từ' +' '+ valuea +' '+ 'đến'+' '+ valueb+' ' +'là'+' '+tong1;
+    }
+
+  }
+</script>
+</body>
+</html>

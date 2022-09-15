@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>Nhập năm muốn kiểm tra</p><input type="number" id="namkiemtra">
+<button onclick="kiemtra()" id="click">Kiểm tra</button>
+<p id="thongbao">Năm này thuộc thế kỉ</p>
+<script>
+    function kiemtra(){
+        let nam = document.getElementById('namkiemtra').value;
+        if(nam % 100==0){
+            let ketqua=nam/100+1;
+            document.getElementById('thongbao').innerHTML ='Năm này thuộc thế kỉ'+ ketqua;
+        }else{
+            let ketqua = (nam - (nam %100))/100+1;
+            document.getElementById('thongbao').innerHTML ='Năm này thuộc thế kỉ'+ketqua;
+        }
+
+    }
+</script>
+</body>
+</html>
