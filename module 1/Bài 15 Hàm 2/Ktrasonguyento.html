@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let sonhapvao = +prompt('Nhập số bạn muốn kiểm tra vào đây nhé!');
+    songuyento(sonhapvao)
+
+    function songuyento(input) {
+        if (input !== 0 && input !== 1) {
+            let check = true;
+            for (let i = 2; i < input; i++) {
+                if (input % i == 0) {
+                    check = false;
+                    break;
+                }
+            }
+            if (check===true) {
+                alert('Số' + ' ' + input + ' ' + 'Là số nguyên tố!')
+            } else {
+                alert('Rất tiếc không phải số nguyên tố!')
+            }
+        } else {
+            alert('Rất tiếc không phải số nguyên tố!')
+        }
+    }
+</script>
+</body>
+</html>

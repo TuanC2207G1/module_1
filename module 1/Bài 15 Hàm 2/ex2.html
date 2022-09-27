@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let met =prompt('Nhập mét chuyển:');
+    metsangfoot(met)
+    function metsangfoot(met){
+        let foot = parseFloat(met * 3.279);
+        document.write(foot+'<br>')
+    }
+    let foot=prompt('Nhập foot cần chuyển:')
+    footsangmet(foot)
+    function footsangmet(foot){
+        let met = 0.305*foot;
+        document.write(met)
+    }
+</script>
+</body>
+</html>

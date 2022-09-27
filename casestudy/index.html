@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog du lịch</title>
+</head>
+<body>
+<script>
+    let s = '12:01:00AM'
+    let arr = s.split('');
+    let newarr = [];
+    let newarr1 = [];
+    if (arr[arr.length - 2] == 'A') {
+        if (arr[0] == 1 && arr[1] == 2) {
+            arr[0] = 0;
+            arr[1] = 0;
+        }
+        for (let i = 0; i < arr.length - 2; i++) {
+            newarr[i] = arr[i];
+        }
+    }
+    if (arr[arr.length - 2] == 'P') {
+        for (let i = 0; i < arr.length - 2; i++) {
+            newarr1[i] = arr[i];
+        }
+        for (let i = 0; i < newarr1.length; i++) {
+            newarr[i] = newarr1[i];
+        }
+    }
+    console.log(newarr.join(''));
+</script>
+</body>
+</html>
